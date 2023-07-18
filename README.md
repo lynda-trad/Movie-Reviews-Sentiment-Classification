@@ -11,3 +11,8 @@ Using Stochastic Gradient Descent, we will try and decipher whether a review is 
 - Normalizing data,
 - Term Frequency Inverse Document Frequency (TFIDF),
 - Stochastic Gradient Descent model
+
+___
+
+The **data** used in this notebook was downloaded here : 
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews. 
